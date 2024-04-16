@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("copa.do mundo");
 
     
     if (respostaTime.toLowerCase() === "CORINTHAIANS pr") {
