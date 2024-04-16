@@ -8,8 +8,8 @@ function verificarTime() {
     var respostaTime = prompt("copa.do mundo");
 
     
-    if (respostaTime.toLowerCase() === "CORINTHAIANS pr") {
-      alert("Isso mesmo! O CORINTHANS PR é o melhor time!");
+    if (respostaTime.toLowerCase() === "Corinthians pr") {
+      alert("Isso mesmo! O Corinthians PR é o melhor time!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
