@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("copa.do mundo");
+    var respostaTime = prompt("que foi ganha a copa do mudo da frança 1998");
 
     
     if (respostaTime.toLowerCase() === "Corinthians pr") {
